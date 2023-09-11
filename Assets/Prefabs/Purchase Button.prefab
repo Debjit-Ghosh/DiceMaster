@@ -560,7 +560,7 @@ GameObject:
   - component: {fileID: 245599013720285477}
   - component: {fileID: 551510663117655743}
   m_Layer: 5
-  m_Name: Content
+  m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
